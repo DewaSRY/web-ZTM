@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/web-ZTM/static/css/main.54666f1f.css",
-    "main.js": "/web-ZTM/static/js/main.a5b67dbb.js",
+    "main.css": "/web-ZTM/static/css/main.30527821.css",
+    "main.js": "/web-ZTM/static/js/main.add8d753.js",
     "service-worker.js": "/web-ZTM/service-worker.js",
     "static/media/SEGA.woff": "/web-ZTM/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/web-ZTM/index.html",
-    "main.54666f1f.css.map": "/web-ZTM/static/css/main.54666f1f.css.map",
-    "main.a5b67dbb.js.map": "/web-ZTM/static/js/main.a5b67dbb.js.map"
+    "main.30527821.css.map": "/web-ZTM/static/css/main.30527821.css.map",
+    "main.add8d753.js.map": "/web-ZTM/static/js/main.add8d753.js.map"
   },
   "entrypoints": [
-    "static/css/main.54666f1f.css",
-    "static/js/main.a5b67dbb.js"
+    "static/css/main.30527821.css",
+    "static/js/main.add8d753.js"
   ]
 }
